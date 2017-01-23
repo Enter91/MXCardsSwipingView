@@ -15,7 +15,7 @@ typedef NS_ENUM(NSInteger, MXCardDestination) {
 };
 
 static const CGFloat kMXMinimumSpeedForDismissal = 80.0f;
-static const CGFloat kMXDistanceFromCenterDismissalThreshold = 30.0f;
+static const CGFloat kMXDistanceFromCenterDismissalThreshold = 120.0f;
 static const CGFloat kMXDistanceFromCenterShowViewsThreshold = 10.0f;
 
 @interface MXCardsSwipingView()
